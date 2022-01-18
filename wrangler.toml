@@ -1,0 +1,10 @@
+name = "first-worker"
+type = "webpack"
+account_id = "54726a499ae6ebaa7c8b697e1d7399c8"
+workers_dev = true
+
+[env.production]
+workers_dev = false
+route = "https://hello-worker.norbertosantiago.com/"
+zone_id = "33661108ffc60f4e5567b1d78b50f273"
+compatibility_date = "2022-01-15"
