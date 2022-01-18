@@ -1,7 +1,4 @@
-// import flag from 'country-code-emoji'
-
 const template = (cf) => {
-    // const emoji = flag(cf.country) || "👋🏻"
     return `
     <!DOCTYPE html>
     <html lang="en">
