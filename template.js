@@ -10,7 +10,7 @@ const template = (cf) => {
         <link rel="stylesheet" href="https://unpkg.com/modern-css-reset/dist/reset.min.css" />
         <style>
           body {
-            background: #66ccff;
+            background: #CC4646;
             display: flex;
             align-items: center;
             justify-content: center;
